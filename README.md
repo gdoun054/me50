@@ -1,1 +1,2 @@
 # me50
+This is a CS50 HARVARD COURSES AND PROJECT DONE BY Ghita Dounia 
